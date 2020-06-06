@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+
+.container {
+  text-align: center;
+}
+
+.searchForm {
+  display: inline-block;
+  margin-top: 50px;
+}
+
+.drop-down {
+  width: 206.67px;
+  height: 250px;
+  overflow: auto;
+  border: 1px solid black;
+} 
+
+.active {
+  color: blue;
+}
